@@ -1,0 +1,530 @@
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | configuration parameters after validation:
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · viaHost: "9hufk5o0ndn8.invalid"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · uri: sip:92300@1q2w.pics
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · wsServers: [{"ws_uri":"wss://1q2w.pics:8089/ws","sip_uri":"<sip:1q2w.pics:8089;transport=ws;lr>","weight":0,"status":0,"scheme":"WSS"}]
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · custom: {}
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · displayName: "MRX"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · password: NOT SHOWN
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · registerExpires: 90
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · register: true
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · registrarServer: sip:1q2w.pics
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · wsServerMaxReconnection: 3
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · wsServerReconnectionTimeout: 4
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · connectionRecoveryMinInterval: 2
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · connectionRecoveryMaxInterval: 30
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · keepAliveInterval: 0
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · extraSupported: []
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · usePreloadedRoute: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · userAgentString: "SIP.js/0.7.8"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · iceCheckingTimeout: 5000
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · noAnswerTimeout: 60000
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · stunServers: ["stun:stun.l.google.com:19302"]
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · turnServers: []
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · traceSip: true
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hackViaTcp: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hackIpInContact: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hackWssInTransport: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hackAllowUnregisteredOptionTags: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hackCleanJitsiSdpImageattr: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hackStripTcp: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · contactTransport: "ws"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · forceRport: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · autostart: true
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · autostop: true
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · rel100: "none"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · replaces: "none"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · mediaHandlerFactory: function(a,c){return new b(a,c)}
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · authenticationFactory: undefined
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · allowLegacyNotifications: false
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · instanceId: "96433637-0815-44a2-9eaa-45c6f655e9f3"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · sipjsId: "avurp"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · hostportParams: "1q2w.pics"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · authorizationUser: "92300"
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | · media: undefined
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.ua | user requested startup...
+sip.min.js:36 Wed Jun 05 2024 02:19:03 GMT+0300 (Восточная Европа, летнее время) | sip.transport | connecting to WebSocket wss://1q2w.pics:8089/ws
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.transport | WebSocket wss://1q2w.pics:8089/ws connected
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.ua | connection state set to 0
+sipApp.js:291 status: Connected
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+REGISTER sip:1q2w.pics SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK3893763
+Max-Forwards: 70
+To: "MRX" <sip:92300@1q2w.pics>
+From: "MRX" <sip:92300@1q2w.pics>;tag=e7kikrhi0u
+Call-ID: vqneav16nj5lkncemmqiu0
+CSeq: 81 REGISTER
+Contact: <sip:jvbq654s@9hufk5o0ndn8.invalid;transport=ws>;reg-id=1;+sip.instance="<urn:uuid:96433637-0815-44a2-9eaa-45c6f655e9f3>";expires=90
+Allow: ACK,CANCEL,INVITE,MESSAGE,BYE,OPTIONS,INFO,NOTIFY,REFER
+Supported: path, gruu, outbound
+User-Agent: SIP.js/0.7.8
+Content-Length: 0
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 401 Unauthorized
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK3893763
+Call-ID: vqneav16nj5lkncemmqiu0
+From: "MRX" <sip:92300@1q2w.pics>;tag=e7kikrhi0u
+To: "MRX" <sip:92300@1q2w.pics>;tag=z9hG4bK3893763
+CSeq: 81 REGISTER
+WWW-Authenticate: Digest realm="asterisk",nonce="1717543143/0ab5bb74ffed05a9f3ff51c1fc5d42a8",opaque="2f3dfc772a894132",algorithm=md5,qop="auth"
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Content-Length:  0
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+REGISTER sip:1q2w.pics SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK4881113
+Max-Forwards: 70
+To: "MRX" <sip:92300@1q2w.pics>
+From: "MRX" <sip:92300@1q2w.pics>;tag=e7kikrhi0u
+Call-ID: vqneav16nj5lkncemmqiu0
+CSeq: 82 REGISTER
+Authorization: Digest algorithm=MD5, username="92300", realm="asterisk", nonce="1717543143/0ab5bb74ffed05a9f3ff51c1fc5d42a8", uri="sip:1q2w.pics", response="d428712a0d341691a24b00473c0bbd73", opaque="2f3dfc772a894132", qop=auth, cnonce="gshtt2nffer7", nc=00000001
+Contact: <sip:jvbq654s@9hufk5o0ndn8.invalid;transport=ws>;reg-id=1;+sip.instance="<urn:uuid:96433637-0815-44a2-9eaa-45c6f655e9f3>";expires=90
+Allow: ACK,CANCEL,INVITE,MESSAGE,BYE,OPTIONS,INFO,NOTIFY,REFER
+Supported: path, gruu, outbound
+User-Agent: SIP.js/0.7.8
+Content-Length: 0
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 200 OK
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK4881113
+Call-ID: vqneav16nj5lkncemmqiu0
+From: "MRX" <sip:92300@1q2w.pics>;tag=e7kikrhi0u
+To: "MRX" <sip:92300@1q2w.pics>;tag=z9hG4bK4881113
+CSeq: 82 REGISTER
+Date: Tue, 04 Jun 2024 23:19:03 GMT
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Content-Length:  0
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:04 GMT+0300 (Восточная Европа, летнее время) | sip.registercontext | no Contact header in response to REGISTER, response ignored
+c.print @ sip.min.js:36
+c.<computed> @ sip.min.js:36
+b.<computed> @ sip.min.js:36
+receiveResponse @ sip.min.js:37
+receiveResponse @ sip.min.js:37
+d.receiveResponse @ sip.min.js:39
+onMessage @ sip.min.js:39
+ws.onmessage @ sip.min.js:39
+service.js:475 Microphone is present.
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | acquiring local media
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | acquired local media streams
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | RTCIceGatheringState changed: gathering
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | ICE candidate received: candidate:256416663 1 udp 2122260223 192.168.0.101 63628 typ host generation 0 ufrag 010B network-id 1
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | ICE candidate received: candidate:2684517033 1 udp 1686052607 188.163.18.238 24810 typ srflx raddr 192.168.0.101 rport 63628 generation 0 ufrag 010B network-id 1
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | ICE candidate received: candidate:1904703759 1 tcp 1518280447 192.168.0.101 9 typ host tcptype active generation 0 ufrag 010B network-id 1
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.invitecontext.mediahandler | avurpj66e45ngmo17bs7och2l56728 | RTCIceGatheringState changed: complete
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+INVITE sip:+380974498412@1q2w.pics SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK7075129
+Max-Forwards: 70
+To: <sip:+380974498412@1q2w.pics>
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+Call-ID: avurpj66e45ngmo17bs7
+CSeq: 5730 INVITE
+Contact: <sip:jvbq654s@9hufk5o0ndn8.invalid;transport=ws;ob>
+Allow: ACK,CANCEL,INVITE,MESSAGE,BYE,OPTIONS,INFO,NOTIFY,REFER
+Supported: outbound
+User-Agent: SIP.js/0.7.8
+Content-Type: application/sdp
+Content-Length: 1624
+
+v=0
+o=- 3881154032487721676 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=extmap-allow-mixed
+a=msid-semantic: WMS 333ed60b-b1c2-495d-8d9b-f354a24632b6
+m=audio 24810 UDP/TLS/RTP/SAVPF 111 63 9 0 8 13 110 126
+c=IN IP4 188.163.18.238
+a=rtcp:9 IN IP4 0.0.0.0
+a=candidate:256416663 1 udp 2122260223 192.168.0.101 63628 typ host generation 0 network-id 1
+a=candidate:2684517033 1 udp 1686052607 188.163.18.238 24810 typ srflx raddr 192.168.0.101 rport 63628 generation 0 network-id 1
+a=candidate:1904703759 1 tcp 1518280447 192.168.0.101 9 typ host tcptype active generation 0 network-id 1
+a=ice-ufrag:010B
+a=ice-pwd:158fdWw/OeS8WGJXHlpnSh7O
+a=ice-options:trickle
+a=fingerprint:sha-256 9E:9F:09:CC:33:5D:20:D4:D6:7B:B9:69:08:A0:4D:00:CE:29:F2:51:34:A3:AF:F6:90:CA:4A:81:51:28:D4:B1
+a=setup:actpass
+a=mid:0
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
+a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:333ed60b-b1c2-495d-8d9b-f354a24632b6 f8f7f9a0-1c51-4129-997b-32ebdb6c0e02
+a=rtcp-mux
+a=rtpmap:111 opus/48000/2
+a=rtcp-fb:111 transport-cc
+a=fmtp:111 minptime=10;useinbandfec=1
+a=rtpmap:63 red/48000/2
+a=fmtp:63 111/111
+a=rtpmap:9 G722/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:13 CN/8000
+a=rtpmap:110 telephone-event/48000
+a=rtpmap:126 telephone-event/8000
+a=ssrc:3490687568 cname:pjKfmNJQQIcO7FoU
+a=ssrc:3490687568 msid:333ed60b-b1c2-495d-8d9b-f354a24632b6 f8f7f9a0-1c51-4129-997b-32ebdb6c0e02
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 401 Unauthorized
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK7075129
+Call-ID: avurpj66e45ngmo17bs7
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+To: <sip:+380974498412@1q2w.pics>;tag=z9hG4bK7075129
+CSeq: 5730 INVITE
+WWW-Authenticate: Digest realm="asterisk",nonce="1717543145/64030bb7c37d6a25dafa5780b7e21292",opaque="124cbdea3ccde352",algorithm=md5,qop="auth"
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Content-Length:  0
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+ACK sip:+380974498412@1q2w.pics SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK7075129
+To: <sip:+380974498412@1q2w.pics>;tag=z9hG4bK7075129
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+Call-ID: avurpj66e45ngmo17bs7
+Content-Length: 0
+CSeq: 5730 ACK
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+INVITE sip:+380974498412@1q2w.pics SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK9233848
+Max-Forwards: 70
+To: <sip:+380974498412@1q2w.pics>
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+Call-ID: avurpj66e45ngmo17bs7
+CSeq: 5731 INVITE
+Authorization: Digest algorithm=MD5, username="92300", realm="asterisk", nonce="1717543145/64030bb7c37d6a25dafa5780b7e21292", uri="sip:+380974498412@1q2w.pics", response="f7057009d1da75d1452edcf79331f700", opaque="124cbdea3ccde352", qop=auth, cnonce="00vi3j56l9ku", nc=00000001
+Contact: <sip:jvbq654s@9hufk5o0ndn8.invalid;transport=ws;ob>
+Allow: ACK,CANCEL,INVITE,MESSAGE,BYE,OPTIONS,INFO,NOTIFY,REFER
+Supported: outbound
+User-Agent: SIP.js/0.7.8
+Content-Type: application/sdp
+Content-Length: 1624
+
+v=0
+o=- 3881154032487721676 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=extmap-allow-mixed
+a=msid-semantic: WMS 333ed60b-b1c2-495d-8d9b-f354a24632b6
+m=audio 24810 UDP/TLS/RTP/SAVPF 111 63 9 0 8 13 110 126
+c=IN IP4 188.163.18.238
+a=rtcp:9 IN IP4 0.0.0.0
+a=candidate:256416663 1 udp 2122260223 192.168.0.101 63628 typ host generation 0 network-id 1
+a=candidate:2684517033 1 udp 1686052607 188.163.18.238 24810 typ srflx raddr 192.168.0.101 rport 63628 generation 0 network-id 1
+a=candidate:1904703759 1 tcp 1518280447 192.168.0.101 9 typ host tcptype active generation 0 network-id 1
+a=ice-ufrag:010B
+a=ice-pwd:158fdWw/OeS8WGJXHlpnSh7O
+a=ice-options:trickle
+a=fingerprint:sha-256 9E:9F:09:CC:33:5D:20:D4:D6:7B:B9:69:08:A0:4D:00:CE:29:F2:51:34:A3:AF:F6:90:CA:4A:81:51:28:D4:B1
+a=setup:actpass
+a=mid:0
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
+a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:333ed60b-b1c2-495d-8d9b-f354a24632b6 f8f7f9a0-1c51-4129-997b-32ebdb6c0e02
+a=rtcp-mux
+a=rtpmap:111 opus/48000/2
+a=rtcp-fb:111 transport-cc
+a=fmtp:111 minptime=10;useinbandfec=1
+a=rtpmap:63 red/48000/2
+a=fmtp:63 111/111
+a=rtpmap:9 G722/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:13 CN/8000
+a=rtpmap:110 telephone-event/48000
+a=rtpmap:126 telephone-event/8000
+a=ssrc:3490687568 cname:pjKfmNJQQIcO7FoU
+a=ssrc:3490687568 msid:333ed60b-b1c2-495d-8d9b-f354a24632b6 f8f7f9a0-1c51-4129-997b-32ebdb6c0e02
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.transaction.ict | z9hG4bK7075129 | Timer D expired for INVITE client transaction z9hG4bK7075129
+sip.min.js:36 Wed Jun 05 2024 02:19:06 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 100 Trying
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848
+Call-ID: avurpj66e45ngmo17bs7
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+To: <sip:+380974498412@1q2w.pics>
+CSeq: 5731 INVITE
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Content-Length:  0
+
+
+
+sipApp.js:176 newSess [progress] f {logger: b, headers: {…}, status_code: 100, reason_phrase: 'Trying', data: 'SIP/2.0 100 Trying\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.…PBX 16.2.1~dfsg-1+deb12u3\r\nContent-Length:  0\r\n\r\n', …}body: ""call_id: "avurpj66e45ngmo17bs7"cseq: 5731data: "SIP/2.0 100 Trying\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848\r\nCall-ID: avurpj66e45ngmo17bs7\r\nFrom: \"MRX\" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf\r\nTo: <sip:+380974498412@1q2w.pics>\r\nCSeq: 5731 INVITE\r\nServer: Asterisk PBX 16.2.1~dfsg-1+deb12u3\r\nContent-Length:  0\r\n\r\n"from: b {uri: b, parameters: {…}}from_tag: "c5bqnpg7qf"headers: {Via: Array(1), Call-ID: Array(1), From: Array(1), To: Array(1), CSeq: Array(1), …}logger: b {logger: c, category: 'sip.sipmessage', label: undefined}method: "INVITE"reason_phrase: "Trying"status_code: 100to: b {uri: b, parameters: {…}}to_tag: undefinedvia: {protocol: 'SIP', transport: 'WSS', host_type: 'IPv4', host: '9hufk5o0ndn8.invalid', received: '49.12.99.93', …}via_branch: "z9hG4bK9233848"[[Prototype]]: Object
+sip.min.js:36 Wed Jun 05 2024 02:19:10 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:10 GMT+0300 (Восточная Европа, летнее время) | sip.parser | error parsing first line of SIP message: ""
+c.print @ sip.min.js:36
+c.<computed> @ sip.min.js:36
+b.<computed> @ sip.min.js:36
+d.parseMessage @ sip.min.js:37
+onMessage @ sip.min.js:39
+ws.onmessage @ sip.min.js:39
+sip.min.js:36 Wed Jun 05 2024 02:19:29 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 183 Session Progress
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848
+Call-ID: avurpj66e45ngmo17bs7
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+To: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74
+CSeq: 5731 INVITE
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Contact: <sip:176.117.78.73:8089;transport=ws>
+Allow: OPTIONS, REGISTER, INVITE, ACK, BYE, CANCEL, UPDATE, PRACK, MESSAGE
+Content-Type: application/sdp
+Content-Length:   796
+
+v=0
+o=- 2164353740 4 IN IP4 176.117.78.73
+s=Asterisk
+c=IN IP4 176.117.78.73
+t=0 0
+a=msid-semantic:WMS *
+a=group:BUNDLE 0
+m=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126
+a=connection:new
+a=setup:active
+a=fingerprint:SHA-256 
+a=ice-ufrag:778c0f2e756ea8793fa953363eaf6725
+a=ice-pwd:71162cbe6b96502a7ba9052702582807
+a=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host
+a=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:111 opus/48000/2
+a=rtpmap:126 telephone-event/8000
+a=fmtp:126 0-16
+a=ptime:20
+a=maxptime:60
+a=sendrecv
+a=rtcp-mux
+a=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f
+a=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5
+a=mid:0
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:29 GMT+0300 (Восточная Европа, летнее время) | sip.dialog | avurpj66e45ngmo17bs7c5bqnpg7qf840196fe-50fa-464f-9989-7719a8fc2a74 | new UAC dialog created with status EARLY
+sipApp.js:176 newSess [progress] f {logger: b, headers: {…}, status_code: 183, reason_phrase: 'Session Progress', data: 'SIP/2.0 183 Session Progress\r\nVia: SIP/2.0/WSS 9hu…4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n', …}body: "v=0\r\no=- 2164353740 4 IN IP4 176.117.78.73\r\ns=Asterisk\r\nc=IN IP4 176.117.78.73\r\nt=0 0\r\na=msid-semantic:WMS *\r\na=group:BUNDLE 0\r\nm=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126\r\na=connection:new\r\na=setup:active\r\na=fingerprint:SHA-256 \r\na=ice-ufrag:778c0f2e756ea8793fa953363eaf6725\r\na=ice-pwd:71162cbe6b96502a7ba9052702582807\r\na=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host\r\na=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:126 telephone-event/8000\r\na=fmtp:126 0-16\r\na=ptime:20\r\na=maxptime:60\r\na=sendrecv\r\na=rtcp-mux\r\na=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f\r\na=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n"call_id: "avurpj66e45ngmo17bs7"cseq: 5731data: "SIP/2.0 183 Session Progress\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848\r\nCall-ID: avurpj66e45ngmo17bs7\r\nFrom: \"MRX\" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf\r\nTo: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74\r\nCSeq: 5731 INVITE\r\nServer: Asterisk PBX 16.2.1~dfsg-1+deb12u3\r\nContact: <sip:176.117.78.73:8089;transport=ws>\r\nAllow: OPTIONS, REGISTER, INVITE, ACK, BYE, CANCEL, UPDATE, PRACK, MESSAGE\r\nContent-Type: application/sdp\r\nContent-Length:   796\r\n\r\nv=0\r\no=- 2164353740 4 IN IP4 176.117.78.73\r\ns=Asterisk\r\nc=IN IP4 176.117.78.73\r\nt=0 0\r\na=msid-semantic:WMS *\r\na=group:BUNDLE 0\r\nm=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126\r\na=connection:new\r\na=setup:active\r\na=fingerprint:SHA-256 \r\na=ice-ufrag:778c0f2e756ea8793fa953363eaf6725\r\na=ice-pwd:71162cbe6b96502a7ba9052702582807\r\na=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host\r\na=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:126 telephone-event/8000\r\na=fmtp:126 0-16\r\na=ptime:20\r\na=maxptime:60\r\na=sendrecv\r\na=rtcp-mux\r\na=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f\r\na=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n"from: b {uri: b, parameters: {…}}from_tag: "c5bqnpg7qf"headers: {Via: Array(1), Call-ID: Array(1), From: Array(1), To: Array(1), CSeq: Array(1), …}logger: b {logger: c, category: 'sip.sipmessage', label: undefined}method: "INVITE"reason_phrase: "Session Progress"status_code: 183to: b {uri: b, parameters: {…}}to_tag: "840196fe-50fa-464f-9989-7719a8fc2a74"via: {protocol: 'SIP', transport: 'WSS', host_type: 'IPv4', host: '9hufk5o0ndn8.invalid', received: '49.12.99.93', …}via_branch: "z9hG4bK9233848"[[Prototype]]: Object
+sip.min.js:36 Wed Jun 05 2024 02:19:29 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 183 Session Progress
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848
+Call-ID: avurpj66e45ngmo17bs7
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+To: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74
+CSeq: 5731 INVITE
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Allow: OPTIONS, REGISTER, INVITE, ACK, BYE, CANCEL, UPDATE, PRACK, MESSAGE
+Contact: <sip:176.117.78.73:8089;transport=ws>
+Content-Type: application/sdp
+Content-Length:   796
+
+v=0
+o=- 2164353740 4 IN IP4 176.117.78.73
+s=Asterisk
+c=IN IP4 176.117.78.73
+t=0 0
+a=msid-semantic:WMS *
+a=group:BUNDLE 0
+m=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126
+a=connection:new
+a=setup:active
+a=fingerprint:SHA-256 
+a=ice-ufrag:778c0f2e756ea8793fa953363eaf6725
+a=ice-pwd:71162cbe6b96502a7ba9052702582807
+a=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host
+a=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:111 opus/48000/2
+a=rtpmap:126 telephone-event/8000
+a=fmtp:126 0-16
+a=ptime:20
+a=maxptime:60
+a=sendrecv
+a=rtcp-mux
+a=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f
+a=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5
+a=mid:0
+
+
+sipApp.js:176 newSess [progress] f {logger: b, headers: {…}, status_code: 183, reason_phrase: 'Session Progress', data: 'SIP/2.0 183 Session Progress\r\nVia: SIP/2.0/WSS 9hu…4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n', …}body: "v=0\r\no=- 2164353740 4 IN IP4 176.117.78.73\r\ns=Asterisk\r\nc=IN IP4 176.117.78.73\r\nt=0 0\r\na=msid-semantic:WMS *\r\na=group:BUNDLE 0\r\nm=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126\r\na=connection:new\r\na=setup:active\r\na=fingerprint:SHA-256 \r\na=ice-ufrag:778c0f2e756ea8793fa953363eaf6725\r\na=ice-pwd:71162cbe6b96502a7ba9052702582807\r\na=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host\r\na=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:126 telephone-event/8000\r\na=fmtp:126 0-16\r\na=ptime:20\r\na=maxptime:60\r\na=sendrecv\r\na=rtcp-mux\r\na=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f\r\na=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n"call_id: "avurpj66e45ngmo17bs7"cseq: 5731data: "SIP/2.0 183 Session Progress\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848\r\nCall-ID: avurpj66e45ngmo17bs7\r\nFrom: \"MRX\" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf\r\nTo: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74\r\nCSeq: 5731 INVITE\r\nServer: Asterisk PBX 16.2.1~dfsg-1+deb12u3\r\nAllow: OPTIONS, REGISTER, INVITE, ACK, BYE, CANCEL, UPDATE, PRACK, MESSAGE\r\nContact: <sip:176.117.78.73:8089;transport=ws>\r\nContent-Type: application/sdp\r\nContent-Length:   796\r\n\r\nv=0\r\no=- 2164353740 4 IN IP4 176.117.78.73\r\ns=Asterisk\r\nc=IN IP4 176.117.78.73\r\nt=0 0\r\na=msid-semantic:WMS *\r\na=group:BUNDLE 0\r\nm=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126\r\na=connection:new\r\na=setup:active\r\na=fingerprint:SHA-256 \r\na=ice-ufrag:778c0f2e756ea8793fa953363eaf6725\r\na=ice-pwd:71162cbe6b96502a7ba9052702582807\r\na=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host\r\na=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:126 telephone-event/8000\r\na=fmtp:126 0-16\r\na=ptime:20\r\na=maxptime:60\r\na=sendrecv\r\na=rtcp-mux\r\na=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f\r\na=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n"from: b {uri: b, parameters: {…}}from_tag: "c5bqnpg7qf"headers: {Via: Array(1), Call-ID: Array(1), From: Array(1), To: Array(1), CSeq: Array(1), …}logger: b {logger: c, category: 'sip.sipmessage', label: undefined}method: "INVITE"reason_phrase: "Session Progress"status_code: 183to: b {uri: b, parameters: {…}}to_tag: "840196fe-50fa-464f-9989-7719a8fc2a74"via: {protocol: 'SIP', transport: 'WSS', host_type: 'IPv4', host: '9hufk5o0ndn8.invalid', received: '49.12.99.93', …}via_branch: "z9hG4bK9233848"[[Prototype]]: Object
+sip.min.js:36 Wed Jun 05 2024 02:19:38 GMT+0300 (Восточная Европа, летнее время) | sip.transaction.ict | z9hG4bK9233848 | Timer B expired for INVITE client transaction z9hG4bK9233848
+sip.min.js:36 Wed Jun 05 2024 02:19:59 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 200 OK
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848
+Call-ID: avurpj66e45ngmo17bs7
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+To: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74
+CSeq: 5731 INVITE
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Allow: OPTIONS, REGISTER, INVITE, ACK, BYE, CANCEL, UPDATE, PRACK, MESSAGE
+Contact: <sip:176.117.78.73:8089;transport=ws>
+Supported: 100rel, timer
+Content-Type: application/sdp
+Content-Length:   796
+
+v=0
+o=- 2164353740 4 IN IP4 176.117.78.73
+s=Asterisk
+c=IN IP4 176.117.78.73
+t=0 0
+a=msid-semantic:WMS *
+a=group:BUNDLE 0
+m=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126
+a=connection:new
+a=setup:active
+a=fingerprint:SHA-256 
+a=ice-ufrag:778c0f2e756ea8793fa953363eaf6725
+a=ice-pwd:71162cbe6b96502a7ba9052702582807
+a=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host
+a=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:111 opus/48000/2
+a=rtpmap:126 telephone-event/8000
+a=fmtp:126 0-16
+a=ptime:20
+a=maxptime:60
+a=sendrecv
+a=rtcp-mux
+a=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f
+a=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5
+a=mid:0
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:59 GMT+0300 (Восточная Европа, летнее время) | sip.dialog | avurpj66e45ngmo17bs7c5bqnpg7qf840196fe-50fa-464f-9989-7719a8fc2a74 | dialog avurpj66e45ngmo17bs7c5bqnpg7qf840196fe-50fa-464f-9989-7719a8fc2a74  changed to CONFIRMED state
+sip.min.js:36 DOMException: Failed to parse SessionDescription. a=fingerprint:SHA-256  Failed to create fingerprint from the digest.
+c.print @ sip.min.js:36
+c.<computed> @ sip.min.js:36
+b.<computed> @ sip.min.js:36
+(анонимная) @ sip.min.js:38
+Объект Promise.then (асинхронный)
+receiveInviteResponse @ sip.min.js:38
+receiveResponse @ sip.min.js:37
+e.receiveResponse @ sip.min.js:39
+onMessage @ sip.min.js:39
+ws.onmessage @ sip.min.js:39
+sip.min.js:36 Wed Jun 05 2024 02:19:59 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+ACK sip:176.117.78.73:8089;transport=ws SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK4383729
+Max-Forwards: 70
+To: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+Call-ID: avurpj66e45ngmo17bs7
+CSeq: 5731 ACK
+Supported: outbound
+User-Agent: SIP.js/0.7.8
+Content-Length: 0
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:19:59 GMT+0300 (Восточная Европа, летнее время) | sip.transport | sending WebSocket message:
+
+BYE sip:176.117.78.73:8089;transport=ws SIP/2.0
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;branch=z9hG4bK1014573
+Max-Forwards: 70
+To: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+Call-ID: avurpj66e45ngmo17bs7
+CSeq: 5732 BYE
+Reason: SIP ;cause=488 ;text="Not Acceptable Here"
+Supported: outbound
+User-Agent: SIP.js/0.7.8
+Content-Length: 0
+
+
+
+sipApp.js:246 newSess [bye] c {logger: b, ua: e, headers: {…}, method: 'BYE', ruri: b, …}body: undefinedcall_id: "avurpj66e45ngmo17bs7"cseq: 5732extraHeaders: ['Reason: SIP ;cause=488 ;text="Not Acceptable Here"']from: b {uri: b, parameters: {…}}headers: {Route: Array(0), Via: Array(1), Max-Forwards: Array(1), To: Array(1), From: Array(1), …}logger: b {logger: c, category: 'sip.sipmessage', label: undefined}method: "BYE"reasonPhrase: undefinedruri: b {parameters: {…}, headers: {…}, …}statusCode: undefinedto: b {uri: b, parameters: {…}}ua: e {log: c, logger: b, cache: {…}, configuration: {…}, dialogs: {…}, …}[[Prototype]]: Object
+sipApp.js:265 newSess [failed] f {logger: b, headers: {…}, status_code: 200, reason_phrase: 'OK', data: 'SIP/2.0 200 OK\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.inva…4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n', …}body: "v=0\r\no=- 2164353740 4 IN IP4 176.117.78.73\r\ns=Asterisk\r\nc=IN IP4 176.117.78.73\r\nt=0 0\r\na=msid-semantic:WMS *\r\na=group:BUNDLE 0\r\nm=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126\r\na=connection:new\r\na=setup:active\r\na=fingerprint:SHA-256 \r\na=ice-ufrag:778c0f2e756ea8793fa953363eaf6725\r\na=ice-pwd:71162cbe6b96502a7ba9052702582807\r\na=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host\r\na=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:126 telephone-event/8000\r\na=fmtp:126 0-16\r\na=ptime:20\r\na=maxptime:60\r\na=sendrecv\r\na=rtcp-mux\r\na=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f\r\na=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n"call_id: "avurpj66e45ngmo17bs7"cseq: 5731data: "SIP/2.0 200 OK\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK9233848\r\nCall-ID: avurpj66e45ngmo17bs7\r\nFrom: \"MRX\" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf\r\nTo: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74\r\nCSeq: 5731 INVITE\r\nServer: Asterisk PBX 16.2.1~dfsg-1+deb12u3\r\nAllow: OPTIONS, REGISTER, INVITE, ACK, BYE, CANCEL, UPDATE, PRACK, MESSAGE\r\nContact: <sip:176.117.78.73:8089;transport=ws>\r\nSupported: 100rel, timer\r\nContent-Type: application/sdp\r\nContent-Length:   796\r\n\r\nv=0\r\no=- 2164353740 4 IN IP4 176.117.78.73\r\ns=Asterisk\r\nc=IN IP4 176.117.78.73\r\nt=0 0\r\na=msid-semantic:WMS *\r\na=group:BUNDLE 0\r\nm=audio 12668 UDP/TLS/RTP/SAVPF 0 8 111 126\r\na=connection:new\r\na=setup:active\r\na=fingerprint:SHA-256 \r\na=ice-ufrag:778c0f2e756ea8793fa953363eaf6725\r\na=ice-pwd:71162cbe6b96502a7ba9052702582807\r\na=candidate:Hd9abb8ca 1 UDP 2130706431 fe80::216:3eff:fea6:af44 12668 typ host\r\na=candidate:Hb0754e49 1 UDP 2130706431 176.117.78.73 12668 typ host\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:111 opus/48000/2\r\na=rtpmap:126 telephone-event/8000\r\na=fmtp:126 0-16\r\na=ptime:20\r\na=maxptime:60\r\na=sendrecv\r\na=rtcp-mux\r\na=ssrc:849768411 cname:7ae49053-ddad-4988-af4f-1bca98454e8f\r\na=msid:609bf68b-137f-4e94-abb2-c2e962fbc9c4 2160d66e-b5bb-4480-87fd-db72cc13f7f5\r\na=mid:0\r\n"from: b {uri: b, parameters: {…}}from_tag: "c5bqnpg7qf"headers: {Via: Array(1), Call-ID: Array(1), From: Array(1), To: Array(1), CSeq: Array(1), …}logger: b {logger: c, category: 'sip.sipmessage', label: undefined}method: "INVITE"reason_phrase: "OK"status_code: 200to: b {uri: b, parameters: {…}}to_tag: "840196fe-50fa-464f-9989-7719a8fc2a74"via: {protocol: 'SIP', transport: 'WSS', host_type: 'IPv4', host: '9hufk5o0ndn8.invalid', received: '49.12.99.93', …}via_branch: "z9hG4bK9233848"[[Prototype]]: Object
+sip.min.js:36 Wed Jun 05 2024 02:19:59 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+SIP/2.0 200 OK
+Via: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK1014573
+Call-ID: avurpj66e45ngmo17bs7
+From: "MRX" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf
+To: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74
+CSeq: 5732 BYE
+Server: Asterisk PBX 16.2.1~dfsg-1+deb12u3
+Content-Length:  0
+
+
+
+sipApp.js:194 newSess [accepted] f {logger: b, headers: {…}, status_code: 200, reason_phrase: 'OK', data: 'SIP/2.0 200 OK\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.inva…PBX 16.2.1~dfsg-1+deb12u3\r\nContent-Length:  0\r\n\r\n', …}body: ""call_id: "avurpj66e45ngmo17bs7"cseq: 5732data: "SIP/2.0 200 OK\r\nVia: SIP/2.0/WSS 9hufk5o0ndn8.invalid;rport=36396;received=49.12.99.93;branch=z9hG4bK1014573\r\nCall-ID: avurpj66e45ngmo17bs7\r\nFrom: \"MRX\" <sip:92300@1q2w.pics>;tag=c5bqnpg7qf\r\nTo: <sip:+380974498412@1q2w.pics>;tag=840196fe-50fa-464f-9989-7719a8fc2a74\r\nCSeq: 5732 BYE\r\nServer: Asterisk PBX 16.2.1~dfsg-1+deb12u3\r\nContent-Length:  0\r\n\r\n"from: b {uri: b, parameters: {…}}from_tag: "c5bqnpg7qf"headers: {Via: Array(1), Call-ID: Array(1), From: Array(1), To: Array(1), CSeq: Array(1), …}logger: b {logger: c, category: 'sip.sipmessage', label: undefined}method: "BYE"reason_phrase: "OK"status_code: 200to: b {uri: b, parameters: {…}}to_tag: "840196fe-50fa-464f-9989-7719a8fc2a74"via: {protocol: 'SIP', transport: 'WSS', host_type: 'IPv4', host: '9hufk5o0ndn8.invalid', received: '49.12.99.93', …}via_branch: "z9hG4bK1014573"[[Prototype]]: Object
+sip.min.js:36 Wed Jun 05 2024 02:20:31 GMT+0300 (Восточная Европа, летнее время) | sip.transaction.ict | z9hG4bK9233848 | Timer M expired for INVITE client transaction z9hG4bK9233848
+sip.min.js:36 Wed Jun 05 2024 02:20:40 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:20:40 GMT+0300 (Восточная Европа, летнее время) | sip.parser | error parsing first line of SIP message: ""
+c.print @ sip.min.js:36
+c.<computed> @ sip.min.js:36
+b.<computed> @ sip.min.js:36
+d.parseMessage @ sip.min.js:37
+onMessage @ sip.min.js:39
+ws.onmessage @ sip.min.js:39
+sip.min.js:36 Wed Jun 05 2024 02:22:10 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:22:10 GMT+0300 (Восточная Европа, летнее время) | sip.parser | error parsing first line of SIP message: ""
+c.print @ sip.min.js:36
+c.<computed> @ sip.min.js:36
+b.<computed> @ sip.min.js:36
+d.parseMessage @ sip.min.js:37
+onMessage @ sip.min.js:39
+ws.onmessage @ sip.min.js:39
+sip.min.js:36 Wed Jun 05 2024 02:23:40 GMT+0300 (Восточная Европа, летнее время) | sip.transport | received WebSocket text message:
+
+
+
+
+
+sip.min.js:36 Wed Jun 05 2024 02:23:40 GMT+0300 (Восточная Европа, летнее время) | sip.parser | error parsing first line of SIP message: ""
+c.print @ sip.min.js:36
+c.<computed> @ sip.min.js:36
+b.<computed> @ sip.min.js:36
+d.parseMessage @ sip.min.js:37
+onMessage @ sip.min.js:39
+ws.onmessage @ sip.min.js:39
